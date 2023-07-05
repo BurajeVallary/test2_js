@@ -3,17 +3,17 @@
 // returns true if the string is a palindrome 
 // (reads the same backwards and forwards) and false if it is not.
 
-function palindrome(same) {
-   let arry= same.split('').reverse().join("")
-   if (arry===same) {
-     return true
-   }
-   else{
-     return false
-   }
- }
-  let same = "civic"
-  console.log(palindrome(same))
+// function palindrome(same) {
+//    let arry= same.split('').reverse().join("")
+//    if (arry===same) {
+//      return true
+//    }
+//    else{
+//      return false
+//    }
+//  }
+//   let same = "civic"
+//   console.log(palindrome(same))
 
   
   //take2
